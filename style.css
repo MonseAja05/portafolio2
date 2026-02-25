@@ -215,7 +215,7 @@ body{
 
 .perfil-img{
   width:100%;
-  max-width:300px;
+  max-width:280px;
   height:auto;
   object-fit:cover;
   border-radius:15px;
@@ -445,3 +445,4 @@ footer{
   }
 
 }
+
