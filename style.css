@@ -118,9 +118,9 @@ body{
 }
 
 .hero-text h3 {
-  font-size: 2rem;       /* 🔥 subtítulos más grandes */
+  font-size: 2rem;       
   margin-bottom: 25px;
-  color: #6c63ff;        /* 🔥 tu color principal */
+  color: #6c63ff;        
   font-weight: 600;
 }
 
@@ -387,7 +387,7 @@ body{
 
 .social a{
   margin:0 10px;
-  font-size:1rem;  /* 🔥 reducido */
+  font-size:1rem;  
   color:#6c63ff;
   transition:.3s;
 } 
@@ -445,4 +445,5 @@ footer{
   }
 
 }
+
 
