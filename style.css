@@ -25,7 +25,7 @@ body{
 
 /* HEADER */ 
 .header{
-  position:fixed;
+  position:absolute;
   width:100%;
   background:white;
   box-shadow:0 2px 10px rgba(0,0,0,0.05);
@@ -48,7 +48,7 @@ body{
 .menu{
   display:flex;
   list-style:none;
-  gap:30px;
+  gap:50px;
 } 
 
 .menu a{
@@ -445,5 +445,6 @@ footer{
   }
 
 }
+
 
 
