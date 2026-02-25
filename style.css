@@ -215,7 +215,7 @@ body{
 
 .perfil-img{
   width:100%;
-  max-width:350px;
+  max-width:300px;
   height:auto;
   object-fit:cover;
   border-radius:15px;
@@ -443,4 +443,5 @@ footer{
   .hero-text h1{
     font-size:2.3rem;
   }
+
 }
